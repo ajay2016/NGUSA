@@ -1,0 +1,6 @@
+com\nationalguard\ddf\testcases\GuardPayTest.class
+com\nationalguard\ddf\testcases\FitnessCal.class
+com\nationalguard\ddf\AppTest.class
+com\nationalguard\ddf\testcases\WeightCalculatorTest.class
+com\nationalguard\ddf\testcases\NationalGuardGetStarted.class
+com\nationalguard\ddf\base\BaseTest.class

@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite"  >         
+  
+   
+   <test name="GetStartedTest" >
+	 <classes>
+	   <class name="com.nationalguard.ddf.testcases.NationalGuardGetStarted"/>
+	 </classes>
+   </test>
+   
+    <test name="FitnessCalculatorTest" >
+	 <classes>
+	   <class name="com.nationalguard.ddf.testcases.FitnessCal"/>
+	 </classes>
+   </test>
+   
+   <test name="WeightCalculatorTest" >
+	 <classes>
+	   <class name="com.nationalguard.ddf.testcases.WeightCalculatorTest"/>
+	 </classes>
+   </test>
+   
+      <test name="GuardPayTest" >
+	 <classes>
+	   <class name="com.nationalguard.ddf.testcases.GuardPayTest"/>
+	 </classes>
+   </test>
+   
+   
+</suite>
